@@ -1,0 +1,24 @@
+{
+  "name": "00koatestserver",
+  "version": "1.0.0",
+  "description": "jsplus course test server",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DavidYuw/00KoaTestServer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DavidYuw/00KoaTestServer/issues"
+  },
+  "homepage": "https://github.com/DavidYuw/00KoaTestServer#readme",
+  "dependencies": {
+    "koa": "^2.12.0",
+    "koa-cors": "0.0.16",
+    "koa-router": "^8.0.8"
+  }
+}
